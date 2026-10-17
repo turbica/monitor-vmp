@@ -1,0 +1,20 @@
+{
+    "valencia_ckan_portal": "https://opendata.vlci.valencia.es/",
+    "geoportal_vias_y_redes": "https://geoportal.valencia.es/apps/GeoportalHome/es/inicio/geodatos-abiertos",
+    "nodo_iot_telefonica_valencia": "https://opendata-valencia.iotplatform.telefonica.com/dataset/?organization=ajuntament-de-valencia",
+    "indicadores_agenda_2030": [
+        "11.2.EL10 - Proporción de accidentes de tráfico con intervención de VMP (bicicletas, patinetes, etc.) desglosado por tipo",
+        "3.6.EL04 - Proporción de accidentes con muertes por lesiones"
+    ],
+    "datasets_municipales_femp80": [
+        "Nº 11 - Avisos de incidencias en la vía pública",
+        "Nº 18 - Callejero",
+        "Nº 19 - Carril bici"
+    ],
+    "ecosistema_provincial_y_alianzas": {
+        "connecta_valencia_dival": "https://turisme.dival.es/la-diputacio-destina-5-millones-de-euros-al-proyecto-connecta-valencia-para-analizar-los-datos-turisticos-en-toda-la-provincia/",
+        "upv_las_naves_soberania_datos": "https://dadesvalencia.webs.upv.es/proyectos/"
+    },
+    "valencia_ckan_urbanismo_infraestructuras": "https://opendata.vlci.valencia.es/dataset/?res_format=GeoJSON&res_format=pbf&res_format=HTML&groups=urbanismo-infraestructuras&res_format=KMZ",
+    "guia_femp_80_datasets_pdf": "https://redtransparenciayparticipacion.es/wp-content/uploads/2025/03/Datos-abiertos-80-conjuntos-de-datos.pdf"
+}
